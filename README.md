@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Website Design/Backend
 - 💞️ I’m looking to collaborate on Website
 - 📫 How to reach me pouyahasani4s@gmail.com
-- 😄 Pronouns: Computer Science Student
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm In College And They Nearly Teach Nothing!
 
 <!---

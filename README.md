@@ -5,8 +5,3 @@
 - 📫 How to reach me pouyahasani4s@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm In College And They Nearly Teach Nothing!
-
-<!---
-Pouya4s/Pouya4s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
